@@ -18,6 +18,9 @@
 ## Instalación
     pip install -r requirements.txt
 
+## Ejecución
+    streamlit run app.py
+
 ## Integrantes:
 ### Jhazeel Colque
 ### Nicole Condori
